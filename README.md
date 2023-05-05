@@ -10,8 +10,11 @@ This is a CRUD (Create, Read, Update, Delete) application built with Next.js and
 
 ## Installation
 
-- Clone from my repository.
-https://github.com/aznaqCre18/test-pt-imp.git
+1. Clone from my repository.
+- open your terminal or cmd
+- and then run this command :
+
+    > git clone https://github.com/aznaqCre18/test-pt-imp.git
 
 2. Install dependencies
     go to project directory, and run this command
